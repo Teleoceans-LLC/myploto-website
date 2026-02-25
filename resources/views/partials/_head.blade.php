@@ -47,3 +47,10 @@ src="https://www.facebook.com/tr?id=1006480110430765&ev=PageView&noscript=1"
   plausible.init()
 </script>
 
+<script id="mojeeb-chat-widget"
+            src="https://mojeebcdn.z7.web.core.windows.net/mojeeb-widget.js"
+            data-widget-id="f124261f-6f04-4a0d-ab8b-ce9fed4a3324"
+            data-mode="default"
+            data-config="{}">
+    </script>
+
