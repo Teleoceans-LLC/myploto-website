@@ -5,10 +5,10 @@
       <div class="col-lg-5 text-light text-center">
          <h4>Subscribe to our newsletter</h4>
          <p>We send emails once a month, we never send Spam!</p>
-         <!-- Form -->				
+         <!-- Form -->
          <div id="mc_embed_signup" >
             <!-- your form address in the line bellow -->
-		<form action="#" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate> 
+		<form action="#" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate>
 		<div class="mc-field-group">
                      <div class="input-group">
                         <input class="form-control border2 input-lg required email" type="email" value="" name="EMAIL" placeholder="Your email here" id="mce-EMAIL">
@@ -22,12 +22,12 @@
                         <div class="alert alert-success response" id="mce-success-response"></div>
                      </div>
                   </div>
-                  <!-- /mc-fiel-group -->									
+                  <!-- /mc-fiel-group -->
                </div>
                <!-- /mc_embed_signup_scroll -->
             </form>
             <br><br><br>
-            <!-- /form ends -->								
+            <!-- /form ends -->
          </div>
          <!-- /mc_embed_signup -->
       </div>
@@ -90,7 +90,7 @@
       <hr/>
       <div class="row">
          <div class="credits col-sm-12">
-            <p>Copyright @php echo date('Y') @endphp &copy; - All Rights Reserved - Powered by <a href="https://artefy.ai">Artefy.ai</a></p>
+            <p>Copyright @php echo date('Y') @endphp &copy; - All Rights Reserved - Powered by <a href="https://teleoceans.com">teleoceans.com</a></p>
             <p style="display: none">teleoceans.com</p>
          </div>
       </div>
